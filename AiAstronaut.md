@@ -13,7 +13,7 @@ Although [GPT-AI Astronaut] does not collect user data, we are committed to ensu
 We reserve the right to update this privacy policy at any time. Changes and clarifications will take effect immediately upon their posting on the website. We encourage Users to frequently check this page for any changes to stay informed about how we are protecting their information.
 
 ## Your Acceptance of These Terms
-By using [GPT-AI Astronaut], you acknowledge that you have read this policy and agree to all its terms and conditions. If you do not agree to this policy, please do not use [GPT-Convince Me].
+By using [GPT-AI Astronaut], you acknowledge that you have read this policy and agree to all its terms and conditions. If you do not agree to this policy, please do not use [GPT-AI Astronaut].
 
 ## Contacting Us
 If you have any questions about this Privacy Policy, the practices of [GPT-AI Astronaut], or your dealings with this application, please contact us at [confirmkky@gmail.com].
